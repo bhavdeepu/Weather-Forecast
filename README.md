@@ -1,5 +1,5 @@
 # Weather Forecast Cum Scheduler
-Install the following API's using pip(for the successful execution of the program):
+Install the following Packages using pip:
 1.matplotlib
 2.PyQt
 3.Forecastio
